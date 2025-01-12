@@ -1,7 +1,7 @@
 # FrozenLake Reinforcement Learning
 
 This repository contains implementations of various reinforcement learning (RL) approaches to solve the **FrozenLake-v1** environment from OpenAI Gym. The goal is to train agents capable of navigating a slippery, grid-based environment to reach a goal while avoiding obstacles and slippery surfaces.
-![FrozenLake Demo](Demo/sample_demo.gif)
+![FrozenLake Demo](Data/frozen_lake.gif)
 
 ## Environment Details
 
